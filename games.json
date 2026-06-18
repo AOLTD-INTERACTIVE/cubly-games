@@ -13,8 +13,8 @@
       "scene_path": "res://games/cubly_imposter/scenes/menu/cubly_imposter_menu.scn",
       "download_url": "https://github.com/AOLTD-INTERACTIVE/cubly-games/releases/download/v1.0.0/cubly_imposter_1.pck",
       "version": "1.0.0"
-    }
-     {
+    },
+    {
       "id": "rythm",
       "display_name": "RYTHM",
       "scene_path": "res://games/cubly_imposter/scenes/menu/cubly_imposter_menu.scn",
