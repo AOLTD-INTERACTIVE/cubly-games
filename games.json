@@ -5,14 +5,18 @@
       "display_name": "CRASH",
       "scene_path": "res://games/cubly_crash/scenes/menu/cubly_crash_menu.scn",
       "download_url": "https://github.com/AOLTD-INTERACTIVE/cubly-games/releases/download/v1.0.0/cubly_crash_1.pck",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "download_size_mb": 5.9,
+      "description": "Cubly Crash is a block puzzle game where you drag and drop different shaped pieces onto a grid. Your goal is to fill complete rows or columns to clear them and make room for more blocks. The game ends when there's no space left for new pieces. It's easy to pick up but gets increasingly challenging as you try to survive as long as possible with clever placement."
     },
     {
       "id": "imposter",
       "display_name": "IMPOSTER",
       "scene_path": "res://games/cubly_imposter/scenes/menu/cubly_imposter_menu.scn",
       "download_url": "https://github.com/AOLTD-INTERACTIVE/cubly-games/releases/download/v1.0.0/cubly_imposter_1.pck",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "download_size_mb": 12.5,
+      "description": "Cubly Imposter is a social word game where players are given a secret word, except for one player who is secretly the Imposter and doesn't know the word. Everyone takes turns giving one-word clues about the word to help each other, while the Imposter tries to blend in by guessing and giving fake clues. After several rounds, the group votes on who they think the Imposter is. If they catch the Imposter, the group wins; if the Imposter survives the vote, they win alone."
     }
   ]
 }
