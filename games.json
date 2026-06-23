@@ -15,7 +15,7 @@
       "scene_path": "res://games/imposter/scenes/menu/cubly_imposter_menu.scn",
       "download_url": "https://github.com/AOLTD-INTERACTIVE/cubly-games/releases/download/v1.0.0/imposter.pck",
       "version": "1.0.0",
-      "download_size_mb": 12.5,
+      "download_size_mb": 5.7,
       "description": "Cubly Imposter is a social word game where players are given a secret word, except for one player who is secretly the Imposter and doesn't know the word. Everyone takes turns giving one-word clues about the word to help each other, while the Imposter tries to blend in by guessing and giving fake clues. After several rounds, the group votes on who they think the Imposter is. If they catch the Imposter, the group wins; if the Imposter survives the vote, they win alone."
     }
   ]
