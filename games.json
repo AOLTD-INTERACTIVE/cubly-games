@@ -5,7 +5,7 @@
       "display_name": "CRASH",
       "scene_path": "res://games/crash/scenes/menu/main_menu.scn",
       "download_url": "https://github.com/AOLTD-INTERACTIVE/cubly-games/releases/download/v1.0.0/crash.pck",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "download_size_mb": 5.9,
       "description": "Cubly Crash is a block puzzle game where you drag and drop different shaped pieces onto a grid. Your goal is to fill complete rows or columns to clear them and make room for more blocks. The game ends when there's no space left for new pieces. It's easy to pick up but gets increasingly challenging as you try to survive as long as possible with clever placement."
     },
