@@ -33,7 +33,7 @@
       "scene_path": "res://games/doubles/scenes/doubles_gameplay.scn",
       "download_url": "https://github.com/AOLTD-INTERACTIVE/cubly-games/releases/download/v1.0.0/doubles.pck",
       "version": "1.0.0",
-      "download_size_mb": <1,
+      "download_size_mb": 0.74,
       "description": "Doubles is a number-merging puzzle game where you swipe to slide tiles across a 4×4 grid. Your goal is to combine matching numbers into bigger ones—two 2s make a 4, two 4s make an 8—until you reach the 2048 tile. Every swipe adds a new tile to the board, so space runs out fast. The game ends when the grid fills up with no matching tiles left to merge. Easy to pick up, but reaching 2048 takes real strategy."
     }
   ]
