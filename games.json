@@ -5,6 +5,7 @@
       "display_name": "CRASH",
       "scene_path": "res://games/crash/scenes/gameplay/headless/headless_gameplay.scn",
       "download_url": "https://github.com/AOLTD-INTERACTIVE/cubly-games/releases/download/v1.0.0/crash.pck",
+      "category": ["Block Puzzle"],
       "version": "1.0.4",
       "download_size_mb": 5.9,
       "description": "Crash is a block puzzle game where you drag and drop different shaped pieces onto a grid. Your goal is to fill complete rows or columns to clear them and make room for more blocks. The game ends when there's no space left for new pieces. It's easy to pick up but gets increasingly challenging as you try to survive as long as possible with clever placement."
@@ -14,6 +15,7 @@
       "display_name": "IMPOSTER",
       "scene_path": "res://games/imposter/scenes/menu/main_menu.scn",
       "download_url": "https://github.com/AOLTD-INTERACTIVE/cubly-games/releases/download/v1.0.0/imposter.pck",
+      "category": ["Social Deduction"],
       "version": "1.0.2",
       "download_size_mb": 4.7,
       "description": "Imposter is a social word game where players are given a secret word, except for one player who is secretly the Imposter and doesn't know the word. Everyone takes turns giving one-word clues about the word to help each other, while the Imposter tries to blend in by guessing and giving fake clues. After several rounds, the group votes on who they think the Imposter is. If they catch the Imposter, the group wins; if the Imposter survives the vote, they win alone."
@@ -23,6 +25,7 @@
       "display_name": "GHOST NOTE",
       "scene_path": "res://games/ghost_note/scenes/menu/studio_menu.scn",
       "download_url": "https://github.com/AOLTD-INTERACTIVE/cubly-games/releases/download/v1.0.0/ghost_note.pck",
+      "category": ["Rhythm"],
       "version": "1.0.0",
       "download_size_mb": 34.9,
       "description": "Ghost Note is a free-to-play Halloween-themed rhythm game where you slide to aim at notes in time with the beat. Notes travel toward you, and you swipe to line up with each one right as it hits, chaining them together to build combos and score. The twist? The better you play, the faster the song gets—every high score pushes the tempo higher, so the challenge never stops escalating. Miss too many and the track falls apart. Songs range from easy to expert, and the stage reacts around you as you play. It's simple to learn but tough to master—and it won't cost you a thing to find out how long you can keep your combo alive"
@@ -32,6 +35,7 @@
       "display_name": "DOUBLES",
       "scene_path": "res://games/doubles/scenes/doubles_gameplay.scn",
       "download_url": "https://github.com/AOLTD-INTERACTIVE/cubly-games/releases/download/v1.0.0/doubles.pck",
+      "category": ["Puzzle", "Merge", "Number"],
       "version": "1.0.0",
       "download_size_mb": 0.74,
       "description": "Doubles is a number-merging puzzle game where you swipe to slide tiles across a 4×4 grid. Your goal is to combine matching numbers into bigger ones—two 2s make a 4, two 4s make an 8—until you reach the 2048 tile. Every swipe adds a new tile to the board, so space runs out fast. The game ends when the grid fills up with no matching tiles left to merge. Easy to pick up, but reaching 2048 takes real strategy."
@@ -41,6 +45,7 @@
       "display_name": "CHECKERS",
       "scene_path": "res://games/checkers/scenes/checkers_gameplay.tscn",
       "download_url": "https://github.com/AOLTD-INTERACTIVE/cubly-games/releases/download/v1.0.0/checkers.pck",
+      "category": ["Strategy", "Board"],
       "version": "1.0.0",
       "download_size_mb": 2.02,
       "description": "Checkers is a classic strategy game on an 8×8 grid. Each player starts with 12 pieces, and your goal is to capture them all or block your opponent's moves. Jump over enemy pieces to capture, and reach the far side to crown a king that moves both ways. Forced captures are always on, so one careless move can cost you a piece. Play against a friend or take on the AI at multiple difficulty levels. Easy to learn, but real strategy takes time to master."
