@@ -33,7 +33,7 @@
         {
       "id": "doubles",
       "display_name": "DOUBLES",
-      "scene_path": "res://games/doubles/scenes/doubles_gameplay.scn",
+      "scene_path": "res://games/doubles/scenes/doubles_gameplay.tscn",
       "download_url": "https://github.com/AOLTD-INTERACTIVE/cubly-games/releases/download/v1.0.0/doubles.pck",
       "category": ["Puzzle", "Merge", "Number"],
       "version": "1.0.0",
