@@ -24,7 +24,7 @@
       "id": "ghost_note",
       "display_name": "GHOST NOTE",
       "scene_path": "res://games/ghost_note/scenes/menu/studio_menu.scn",
-      "download_url": "https://github.com/AOLTD-INTERACTIVE/cubly-games/releases/download/v1.0.0/ghost_note.pck",
+      "download_url": "https://github.com/AOLTD-INTERACTIVE/cubly-games/releases/download/v1.0.0/ghost_note.zip",
       "category": ["Rhythm"],
       "version": "1.0.0",
       "download_size_mb": 34.9,
