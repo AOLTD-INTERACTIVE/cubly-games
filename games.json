@@ -3,7 +3,7 @@
     {
       "id": "crash",
       "display_name": "CRASH",
-      "scene_path": "res://games/crash/scenes/gameplay/headless/headless_gameplay.scn",
+      "scene_path": "res://games/crash/scenes/gameplay/crash_gameplay.scn",
       "download_url": "https://github.com/AOLTD-INTERACTIVE/cubly-games/releases/download/v1.0.0/crash.pck",
       "category": ["Block Puzzle", "Puzzle"],
       "version": "1.0.6",
